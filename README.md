@@ -1,5 +1,8 @@
 # Data & Strategy Analyst
 
+## About
+I’m a data and strategy analyst with 3 years of experience helping organizations make smarter decisions. My background spans business analytics, finance, and economics, with applied project work in both the private and public sectors.
+
 ## Projects
 ### [Analyzing Capital Flow Volatility Across Currency Regimes](https://github.com/njpastrone/analyzing-capital-flows)
 A comprehensive research platform for analyzing capital flow volatility across different monetary regimes, with a focus on small open economies and currency union decisions.
@@ -54,6 +57,11 @@ February 2024 - June 2024
 ### University of Utah
 August 2020 - May 2022
 - Began a bachelor’s degree in economics and completed a minor in music technology. Named to the Dean’s List throughout sophomore year. Nominated for the Sigma Phi Epsilon Balanced Man Scholarship in the Spring of 2021.
+
+## Skills
+### Tools: Python, R, SQL, Git, API Integration, AI tools.
+### Quantitative: Machine learning & regression modeling, data cleaning/analysis, dashboard & app development.
+### Qualitative: Customer service (8yrs), intercultural communication, relentless curiosity, conversational Chinese.
 
 ## Contact
 ### [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/)
