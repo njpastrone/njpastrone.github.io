@@ -45,9 +45,12 @@ September 2023 - December 2023
 ## Education
 ### American University
 January 2023 - May 2025
+
 BS Data Science
+
 Minors: Economics & Finance
-GPA: 3.9 (Magna Cum Laude)
+
+GPA: 3.9 Overall, 4.0 Major (Magna Cum Laude)
 - Developed skills in Python, SQL, and R through applied projects in ML, NLP, econometrics, financial modeling, and app development; earned funding to present research, co-authored SQL curriculum for a graduate course, and founded the university economics club, organizing faculty events and cross-disciplinary panels.
 
 ### CET Shanghai
@@ -59,9 +62,11 @@ August 2020 - May 2022
 - Began a bachelor’s degree in economics and completed a minor in music technology. Named to the Dean’s List throughout sophomore year. Nominated for the Sigma Phi Epsilon Balanced Man Scholarship in the Spring of 2021.
 
 ## Skills
-### Tools: Python, R, SQL, Git, API Integration, AI tools.
-### Quantitative: Machine learning & regression modeling, data cleaning/analysis, dashboard & app development.
-### Qualitative: Customer service (8yrs), intercultural communication, relentless curiosity, conversational Chinese.
+Tools: Python, R, SQL, Git, API Integration, AI tools.
+
+Quantitative: Machine learning & regression modeling, data cleaning/analysis, dashboard & app development.
+
+Qualitative: Customer service (8yrs), intercultural communication, relentless curiosity, conversational Chinese.
 
 ## Contact
 ### [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/)
