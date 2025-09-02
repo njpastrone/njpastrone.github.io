@@ -65,4 +65,5 @@ August 2020 - May 2022
 
 ## Contact
 ### [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/)
-### [Email](njpastrone@gmail.com)
+### njpastrone@gmail.com
+### +1-408-455-1114
