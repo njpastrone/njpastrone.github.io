@@ -1,5 +1,5 @@
 title: Nicolo Pastrone
 logo: /assets/pastrone_headshot.jpg
-#description: text below image
-#show_downloads: true
+description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
