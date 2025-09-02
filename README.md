@@ -15,19 +15,24 @@ This Shiny app, built in R, allows users to analyze global health data over time
 July 2025 - Present
 - Collaborated with a Yale economist to evaluate the effects of Euro currency adoption on capital flows. Main analysis compared volatility across different groups of data (Euro countries v. small open economies, Baltic countries before v. after Euro adoption) using data visualization and F-tests. Employed additional statistical tactics (RMSE, Half-life, Winsorization) and analyzed data from multiple sources to understand and explain the relationships among currency regimes, financial openness, and capital flow levels and volatility.
 - Built a full-scale app with a user-friendly interface to complement research and allow for transparency and replication. Utilized a tech stack of R for data wrangling, Python and Streamlit for statistical tests, data visualization, and UI, and Claude Code and ChatGPT to streamline development. Full repo accessible above.
+
 ### Legislative Intern @ U.S. House of Representatives, Committee on the Budget
 September 2024 - December 2024
 - Produced daily reports distilling complex economic and financial data for Members of Congress;
 contributed to research, policy analysis, and logistics for hearings and strategy sessions.
+
 ### Federal Tax Policy Intern @ Tax Foundation
 June 2024 - August 2024
 - Co-authored research cited by The Wall Street Journal; analyzed survey data, cleaned and structured U.S. import data for a leading trade war tariff tracker, and built a Python utility for econometric modeling.
+
 ### Marketing Analytics Intern @ Znshine Solar
 February 2024 - May 2024
 - Redesigned the marketing team’s data system and built an R model to assess sales conference ROI.
+
 ### Data Analyst & Trade Policy Intern @ American Action Forum
 September 2023 - December 2023
 - Cleaned international tariff data; translated economic insights for policy briefings and public media content.
+
 ### Data Analyst @ The Global Tech Experience
 - Excelled in a data analytics career readiness program focused on SQL, Python, and Tableau.
 
@@ -38,9 +43,11 @@ BS Data Science
 Minors: Economics & Finance
 GPA: 3.9 (Magna Cum Laude)
 - Developed skills in Python, SQL, and R through applied projects in ML, NLP, econometrics, financial modeling, and app development; earned funding to present research, co-authored SQL curriculum for a graduate course, and founded the university economics club, organizing faculty events and cross-disciplinary panels.
+
 ### CET Shanghai
 February 2024 - June 2024
 - Studied Mandarin and Chinese politics; received CET Shanghai’s Award of Student Excellence.
+
 ### University of Utah
 August 2020 - May 2022
 - Began a bachelor’s degree in economics and completed a minor in music technology. Named to the Dean’s List throughout sophomore year. Nominated for the Sigma Phi Epsilon Balanced Man Scholarship in the Spring of 2021.
