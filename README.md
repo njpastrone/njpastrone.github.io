@@ -7,6 +7,9 @@ A comprehensive research platform for analyzing capital flow volatility across d
 Kinect helps you maintain meaningful relationships by tracking communication patterns and sending gentle reminders when it's been too long since you last contacted someone (unpublished, in development).
 ### [Examining the Effects of Health Expenditure on Chronic Health Outcomes](https://github.com/njpastrone/health-expenditure-versus-outcomes)
 This research uses a panel linear model to compare the effects of private and public health expenditure on chronic health outcomes in 23 developed countries around the world.
+- [View Presentation at Issues in Political Economy 2025](https://www.youtube.com/watch?v=kSSVABNuO2M)
+- [Download Comprehensive Research Paper](https://www.linkedin.com/in/nicolo-pastrone-345120208/details/projects/1110464684/multiple-media-viewer?profileId=ACoAADSy7-UBVIQ6ea9zTLfPCH3IF3Tj48BD-vE&treasuryMediaId=1756822362777&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BCCV%2BRDduS8ucsdDmo%2BiYaQ%3D%3D)
+
 ### [Global Health Data Analysis App](https://github.com/njpastrone/health-data-analysis-app)
 This Shiny app, built in R, allows users to analyze global health data over time.
 
