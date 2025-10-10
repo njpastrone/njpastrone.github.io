@@ -1,4 +1,4 @@
-# Data & Strategy Analyst
+# Data Solutions Strategist | Business Analytics, Python, Streamlit
 
 ## Professional Summary
 Data solutions strategist skilled in Python, Streamlit, API integration and AI programming with experience building analytics tools, automation systems and forecasting models for business, research, and policy domains. Passionate about simplifying complex data systems into user-friendly solutions.
@@ -37,61 +37,26 @@ Collaborated with a team of graduate Data Science students to build an R/Shiny a
 
 ## Other Projects (Professional)
 
-###
+### National Tax Literacy Poll: Assessing Taxpayer Knowledge and Perceptions of the US Tax System
+Lead survey data analytics, performing cross-tabulation analysis and data visualization for research cited in the IRA National Taxpayer Advocate's 2024 Report to Congress.
+- [View Report](https://taxfoundation.org/research/all/federal/us-tax-literacy-poll-knowledge-perceptions/)
 
-## Work Experience
-### Research Assistant @ Yale School of Management
-July 2025 - Present
-- Collaborated with a Yale economist to evaluate the effects of Euro currency adoption on capital flows. Main analysis compared volatility across different groups of data (Euro countries v. small open economies, Baltic countries before v. after Euro adoption) using data visualization and F-tests. Employed additional statistical tactics (RMSE, Half-life, Winsorization) and analyzed data from multiple sources to understand and explain the relationships among currency regimes, financial openness, and capital flow levels and volatility.
-- Built a full-scale app with a user-friendly interface to complement research and allow for transparency and replication. Utilized a tech stack of R for data wrangling, Python and Streamlit for statistical tests, data visualization, and UI, and Claude Code and ChatGPT to streamline development. Full repo accessible above.
+### Placing Harris and Trump Tax Plans in Historical Context
+Ivestigated the size (measured as estimated revenue raised as a pecentage of GDP) of the Presidential candidates' tax plans relative to historical tax changes since 1940. Research cited in the Wall Street Journal.
+- [View paper](https://taxfoundation.org/blog/largest-tax-increase-harris-trump/)
 
-### Legislative Intern @ U.S. House of Representatives, Committee on the Budget
-September 2024 - December 2024
-- Produced daily reports distilling complex economic and financial data for Members of Congress;
-contributed to research, policy analysis, and logistics for hearings and strategy sessions.
+### How Do Import Tariffs Affect Exports?
+Wrote an original primer alongside a top trade economist explaining the oft-overlooked relationship between import tariffs and exports, revealing how import tariffs can lead to inefficient resource allocation, higher production costs, inflated currency values, and retaliatory tariffs, all of which place a burden on exports. Cited in Congressional testimony and multiple publications.
+- [View Primer](https://taxfoundation.org/blog/import-tariffs-affect-exports/)
 
-### Federal Tax Policy Intern @ Tax Foundation
-June 2024 - August 2024
-- Co-authored research cited by The Wall Street Journal; analyzed survey data, cleaned and structured U.S. import data for a leading trade war tariff tracker, and built a Python utility for econometric modeling.
+### Non-profit Market Research App
+This app was created to assist a social enterprise with market research needs. The simple dashboard was created with the Shiny package in R, allowing users to filter nonprofit data in order to create mailing lists and identify target customers.
+- [View App](https://njpastrone.shinyapps.io/pbp_non-profit_analysis/)
 
-### Marketing Analytics Intern @ Znshine Solar
-February 2024 - May 2024
-- Redesigned the marketing team’s data system and built an R model to assess sales conference ROI.
-
-### Data Analyst & Trade Policy Intern @ American Action Forum
-September 2023 - December 2023
-- Cleaned international tariff data; translated economic insights for policy briefings and public media content.
-
-### Data Analyst @ The Global Tech Experience
-- Excelled in a data analytics career readiness program focused on SQL, Python, and Tableau.
-
-## Education
-### American University
-January 2023 - May 2025
-
-BS Data Science
-
-Minors: Economics & Finance
-
-GPA: 3.9 Overall, 4.0 Major (Magna Cum Laude)
-- Developed skills in Python, SQL, and R through applied projects in ML, NLP, econometrics, financial modeling, and app development; earned funding to present research, co-authored SQL curriculum for a graduate course, and founded the university economics club, organizing faculty events and cross-disciplinary panels.
-
-### CET Shanghai
-February 2024 - June 2024
-- Studied Mandarin and Chinese politics; received CET Shanghai’s Award of Student Excellence.
-
-### University of Utah
-August 2020 - May 2022
-- Began a bachelor’s degree in economics and completed a minor in music technology. Named to the Dean’s List throughout sophomore year. Nominated for the Sigma Phi Epsilon Balanced Man Scholarship in the Spring of 2021.
-
-## Skills
-Tools: Python, R, SQL, Git, API Integration, AI tools.
-
-Quantitative: Machine learning & regression modeling, data cleaning/analysis, dashboard & app development.
-
-Qualitative: Customer service (8yrs), intercultural communication, relentless curiosity, conversational Chinese.
+## More Information
+### [View Resume](https://drive.google.com/file/d/1i-IOMENw3-_YUksmOD_kx-agIzmAJbzf/view?usp=sharing)
+### [View LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/)
 
 ## Contact
-### [LinkedIn](https://www.linkedin.com/in/nicolo-pastrone-345120208/)
 ### njpastrone@gmail.com
 ### +1-408-455-1114
