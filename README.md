@@ -43,7 +43,7 @@ Lead survey data analytics, performing cross-tabulation analysis and data visual
 
 ### Placing Harris and Trump Tax Plans in Historical Context
 Ivestigated the size (measured as estimated revenue raised as a pecentage of GDP) of the Presidential candidates' tax plans relative to historical tax changes since 1940. Research cited in the Wall Street Journal.
-- [View paper](https://taxfoundation.org/blog/largest-tax-increase-harris-trump/)
+- [View Paper](https://taxfoundation.org/blog/largest-tax-increase-harris-trump/)
 
 ### How Do Import Tariffs Affect Exports?
 Wrote an original primer alongside a top trade economist explaining the oft-overlooked relationship between import tariffs and exports, revealing how import tariffs can lead to inefficient resource allocation, higher production costs, inflated currency values, and retaliatory tariffs, all of which place a burden on exports. Cited in Congressional testimony and multiple publications.
