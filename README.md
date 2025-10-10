@@ -3,18 +3,34 @@
 ## About
 I’m a data and strategy analyst with 3 years of experience helping organizations make smarter decisions. My background spans business analytics, finance, and economics, with applied project work in both the private and public sectors.
 
-## Projects
-### [Analyzing Capital Flow Volatility Across Currency Regimes](https://github.com/njpastrone/analyzing-capital-flows)
-A comprehensive research platform for analyzing capital flow volatility across different monetary regimes, with a focus on small open economies and currency union decisions.
-### [Kinect: Call Your Friends](https://github.com/njpastrone/kinect)
-Kinect helps you maintain meaningful relationships by tracking communication patterns and sending gentle reminders when it's been too long since you last contacted someone (unpublished, in development).
-### [Examining the Effects of Health Expenditure on Chronic Health Outcomes](https://github.com/njpastrone/health-expenditure-versus-outcomes)
-This research uses a panel linear model to compare the effects of private and public health expenditure on chronic health outcomes in 23 developed countries around the world.
+## Featured
+### Kinect: Stay Connected
+Launched Kinect, a relationship management app allowing users to create contacts, organize them into lists, set custom reminder intervals, and recieve automated email notifications to remind users to stay in touch with their friends and loved ones. Built in Typescript utilizing Claude Code.
+- [View Fully-Functional MVP](https://kinect-web.onrender.com/)
+- [View GitHub Repo](https://github.com/njpastrone/kinect)
+
+### Pricing Data Solutions App
+Built a Python/Streamlit app to streamline an inefficient pricing data pipeline for a small business, transforming the firm’s ability to generate quotes, proposals, and invoices, cutting process time by 80%. Published generic version of app to protect company IP.
+- [View Generic Version of App](https://generic-pricing-data-solution.streamlit.app/)
+- [View Generic Version of GitHub Repo](https://github.com/njpastrone/generic-pricing-data-solution)
+
+### Analyzing Capital Flows Across Currency Regimes App
+Contracted with a Yale economist to analyze capital flows across European currency regimes for a project evaluating whether Iceland should adopt the Euro. Integrated advanced econometric techniques and built a Python/Streamlit app to present results, utilizing Claude Code.
+- [View App](https://analyzing-capital-flows.streamlit.app/)
+- [View GitHub Repo](https://github.com/njpastrone/analyzing-capital-flows)
+
+### Examining the Effects of Health Expenditure on Chronic Health Outcomes
+Conducted research on global health expenditure efficiency for economics Senior Capstone at American University, earning funding to present at a conference after faculty nomination. Utilized a panel linear model to compare the effects of private and public health expenditure on chronic health outcomes in 23 developed countries around the world.
 - [View Presentation at Issues in Political Economy 2025](https://www.youtube.com/watch?v=kSSVABNuO2M)
+- [View GitHub Repo](https://github.com/njpastrone/health-expenditure-versus-outcomes)
 - [Download Comprehensive Research Paper](https://www.linkedin.com/in/nicolo-pastrone-345120208/details/projects/1110464684/multiple-media-viewer?profileId=ACoAADSy7-UBVIQ6ea9zTLfPCH3IF3Tj48BD-vE&treasuryMediaId=1756822362777&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BCCV%2BRDduS8ucsdDmo%2BiYaQ%3D%3D)
+
+## Other Projects (Academic)
 
 ### [Global Health Data Analysis App](https://github.com/njpastrone/health-data-analysis-app)
 This Shiny app, built in R, allows users to analyze global health data over time.
+
+### Other Projects (Professional)
 
 ## Work Experience
 ### Research Assistant @ Yale School of Management
