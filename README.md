@@ -1,9 +1,9 @@
 # Data & Strategy Analyst
 
-## About
-I’m a data and strategy analyst with 3 years of experience helping organizations make smarter decisions. My background spans business analytics, finance, and economics, with applied project work in both the private and public sectors.
+## Professional Summary
+Data solutions strategist skilled in Python, Streamlit, API integration and AI programming with experience building analytics tools, automation systems and forecasting models for business, research, and policy domains. Passionate about simplifying complex data systems into user-friendly solutions.
 
-## Featured
+## Featured Projects
 ### Kinect: Stay Connected
 Launched Kinect, a relationship management app allowing users to create contacts, organize them into lists, set custom reminder intervals, and recieve automated email notifications to remind users to stay in touch with their friends and loved ones. Built in Typescript utilizing Claude Code.
 - [View Fully-Functional MVP](https://kinect-web.onrender.com/)
@@ -23,14 +23,21 @@ Contracted with a Yale economist to analyze capital flows across European curren
 Conducted research on global health expenditure efficiency for economics Senior Capstone at American University, earning funding to present at a conference after faculty nomination. Utilized a panel linear model to compare the effects of private and public health expenditure on chronic health outcomes in 23 developed countries around the world.
 - [View Presentation at Issues in Political Economy 2025](https://www.youtube.com/watch?v=kSSVABNuO2M)
 - [View GitHub Repo](https://github.com/njpastrone/health-expenditure-versus-outcomes)
-- [Download Comprehensive Research Paper](https://www.linkedin.com/in/nicolo-pastrone-345120208/details/projects/1110464684/multiple-media-viewer?profileId=ACoAADSy7-UBVIQ6ea9zTLfPCH3IF3Tj48BD-vE&treasuryMediaId=1756822362777&type=DOCUMENT&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BCCV%2BRDduS8ucsdDmo%2BiYaQ%3D%3D)
+- [View Research Paper](https://drive.google.com/file/d/1hKQ_I7RmcKy2EwvNl1h3K-2V3yMwOB5V/view?usp=drive_link)
 
 ## Other Projects (Academic)
 
-### [Global Health Data Analysis App](https://github.com/njpastrone/health-data-analysis-app)
-This Shiny app, built in R, allows users to analyze global health data over time.
+### Tank Talk: Analyzing Rhetoric of Shark Tank Entrepreneurs
+Researched the predictability of Shark Tank investment decisions based on entrepreneurs’ pitch rhetoric. Compared Convolutional Neural Network (CNN), Gated Recurrent Unit (GRU), Long Short-Term Memory (LSTM), and Transformer architectures, achieving classification rates of around 86 percent from GRU and LSTM models. Project completed for Applied Natural Language Processing (DATA-441) class at American University.
+- [View Research Paper](https://drive.google.com/file/d/1uU-9OJ8CEOMGGqAaVxOZizHDOF7n8-mW/view?usp=sharing)
 
-### Other Projects (Professional)
+### Global Health Data Analysis App
+Collaborated with a team of graduate Data Science students to build an R/Shiny app allowing users to analyze global health data. Project completed for Data Science (DATA-413) class at American University.
+- [View GitHub Repo](https://github.com/njpastrone/health-data-analysis-app)
+
+## Other Projects (Professional)
+
+###
 
 ## Work Experience
 ### Research Assistant @ Yale School of Management
