@@ -38,7 +38,7 @@ Collaborated with a team of graduate Data Science students to build an R/Shiny a
 ## Other Projects (Professional)
 
 ### National Tax Literacy Poll: Assessing Taxpayer Knowledge and Perceptions of the US Tax System
-Lead survey data analytics, performing cross-tabulation analysis and data visualization for research cited in the IRA National Taxpayer Advocate's 2024 Report to Congress.
+Lead survey data analytics, performing cross-tabulation analysis and data visualization for research cited in the IRS National Taxpayer Advocate's 2024 Report to Congress.
 - [View Report](https://taxfoundation.org/research/all/federal/us-tax-literacy-poll-knowledge-perceptions/)
 
 ### Placing Harris and Trump Tax Plans in Historical Context
