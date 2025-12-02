@@ -9,6 +9,7 @@ Data scientist and analytics engineer with strong foundations in Python, SQL, an
 
 ### Investor Sentiment Tracker
 Built an AI-powered financial sentiment analysis dashboard that monitors real-time media sentiment for major tech stocks (TSLA, NVDA, AAPL, GOOGL, AMZN). Integrates Claude 3.5 Haiku for intelligent analysis and features an interactive Q&A chatbot for investment insights. Developed with Python, Streamlit, and Supabase PostgreSQL.
+- [View Live App](https://investor-sentiment-dashboard.streamlit.app/)
 - [View GitHub Repo](https://github.com/njpastrone/investor-sentiment-tracker)
 
 ## Professional Work
