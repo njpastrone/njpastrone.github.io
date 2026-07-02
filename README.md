@@ -1,7 +1,9 @@
-# Data Scientist & Analytics Engineer
+# GTM Engineer & Revenue Operations
 
 ## Professional Summary
-Data scientist and analytics engineer with strong foundations in Python, SQL, and API integration, experienced in building scalable data pipelines and analytics applications. Designed and deployed production-grade automation systems that improved operational efficiency by 80%. Skilled in applying machine learning and statistics to real-world problems, with growing expertise in data engineering and cloud-based automation.
+GTM Engineer who embeds with sales teams, maps their workflows, and builds the systems they run on. Solo-built a production-grade revenue intelligence platform (Python/FastAPI, React, Supabase, Claude AI) used daily by an entire sales team. Background in data science, previously applied across nonprofit operations and economic research.
+
+My primary work — a full-stack revenue intelligence platform with lead scoring, signal ingestion, and automated outreach — is proprietary. The projects below are from earlier data science and consulting work.
 
 ## Featured Projects
 
